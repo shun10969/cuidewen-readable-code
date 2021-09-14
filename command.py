@@ -1,1 +1,3 @@
-print("上手")
+language1 = "上手"
+
+print(language1)
