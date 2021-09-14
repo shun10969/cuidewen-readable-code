@@ -1,10 +1,6 @@
 python
 # cui-dewen-readable-code
-仕様2の実行
-1.変数に"上手"を格納
-2.print関数に変数を代入
-3.ファイルの実行
 
-仕様3
-データファイルのフォーマット:pythonファイル
-データファイルの指定:メインファイルでimportコマンドを実行
+1. dictionary_data.pyをcommand.pyファイルにimport
+2. dictionary_dataの中のlanguage1-3をprint関数の引数に使用
+3. ファイルの実行
