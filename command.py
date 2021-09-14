@@ -1,3 +1,3 @@
-language1 = "上手"
+import dictionary_data
 
-print(language1)
+print(dictionary_data.language1)
